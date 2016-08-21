@@ -9,11 +9,13 @@ A Simple but Complete Database Platform
  * Developed on Linux
 
 ##Accomplished Functions
+
 ###Basic Functions
  * Create/Switch/Drop Database
  * Create/Switch/Drop Tables
  * Insert/Delete/Update records
  * Select records according to different kinds of expression (NOT AND OR, < > =, like, is null, in, +-*/%^)
+ 
 ###Enhanced Functions
  * Create/Drop index for a col
  * Primary Key constraint
