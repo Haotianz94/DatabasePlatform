@@ -1,13 +1,15 @@
 #include "DataBaseSystem.h"
 #include <stdio.h>
 #include <fstream>
+#include <iostream>
 
 using namespace std;
 using namespace hsql;
 
 DataBaseSystem::DataBaseSystem()
 {
-	dbManager = new DataBaseManager();	
+	dbManager = new DataBaseManager();
+	cout<<endl<<"Welcome to our Database Platform :)"<<endl<<endl;	
 }
 
 DataBaseSystem::~DataBaseSystem()
