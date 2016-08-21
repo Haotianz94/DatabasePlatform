@@ -7,6 +7,7 @@ A Simple but Complete Database Platform
  * Support most of the database operation and SQL statements
  * Used C++
  * Developed on Linux
+
 ##Accomplished Functions
 ###Basic Functions
  * Create/Switch/Drop Database
@@ -19,5 +20,6 @@ A Simple but Complete Database Platform
  * Similar Match
  * Join among three tables or more
  * Aggregate query (SUM AVG MAX MIN)
+
 ##Links
 [Detailed description on my homepage](http://zhanghaotian1994.com/projects/DatabasePlatform/)
