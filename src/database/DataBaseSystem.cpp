@@ -9,7 +9,7 @@ using namespace hsql;
 DataBaseSystem::DataBaseSystem()
 {
 	dbManager = new DataBaseManager();
-	cout<<"Welcome to our Database Platform!"<<endl;	
+	cout<<endl<<"Welcome to our Database Platform :)"<<endl<<endl;	
 }
 
 DataBaseSystem::~DataBaseSystem()
